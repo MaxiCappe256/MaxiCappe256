@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hola 👋 Soy Maximiliano Cappelletti
 
-<!--
-**MaxiCappe256/MaxiCappe256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer**
+Stack principal: **TypeScript / Next.js / NestJS / PostgreSQL / TailwindCSS**
 
-Here are some ideas to get you started:
+🎓 Estudiante de **Tecnicatura en Programación – UTN Rosario**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy enfocado en construir **aplicaciones web modernas y SaaS**, trabajando principalmente con Next.js en el frontend y NestJS en el backend.
+
+---
+
+## 🚀 Stack principal
+
+* Next.js
+* NestJS
+* PostgreSQL
+* TypeScript
+* TailwindCSS
+
+---
+
+## 🧰 Tecnologías que manejo
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
+
+**Backend**
+
+* Node.js
+* Express
+* PHP 8
+* Laravel 12
+
+**Bases de datos**
+
+* PostgreSQL
+* MySQL
+* MongoDB
+
+**Herramientas**
+
+* Vscode
+* Docker
+* Linux
+* Git
+* Postman
+* TablePlus
+* TypeORM
+* MySQL Wordbench
+
+---
+
+## 🧠 Otros lenguajes
+
+También estudié o trabajé con:
+
+* Python
+* C++
+
+---
+
+## 🎯 Intereses
+
+Además de programar también me gusta:
+
+🎱 Jugar al billar
+💻 Aprender nuevas tecnologías
+🏗 Construir proyectos full stack
+
+---
+
+## 📫 Contacto
+
+LinkedIn: 
