@@ -56,8 +56,8 @@ Actualmente estoy enfocado en construir **aplicaciones web modernas y SaaS**, tr
 ## 🧠 Otros lenguajes
 
 También estudié o trabajé con:<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++<br/>
 
 ---
 
