@@ -73,4 +73,4 @@ Además de programar también me gusta:
 
 ## 📫 Contacto
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/maximiliano-cappelletti-a02ab9359/
