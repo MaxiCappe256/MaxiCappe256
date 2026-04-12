@@ -11,9 +11,10 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Full Stack Developer</h2></summary>
-    <summary><h2 style="display: inline-block">Next.js • NestJS • PostgreSQL</h2></summary>
   </ul>
 </div>
+
+
 
 <!--Intro start-->
 - 🎓 Estudiante de **Tecnicatura en Programación – UTN Rosario**.
@@ -28,60 +29,52 @@
 
 
 
-<!--h1 without bottom border--> 
+<!-- STACK -->
 <div id="user-content-toc"> 
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías ⚙</h2></summary> 
+    <summary><h2 style="display: inline-block">Stack 🚀</h2></summary> 
   </ul> 
 </div> 
 
-<!--tech stack icons--> 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap,nodejs,express,nestjs,php,laravel,postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,tailwind,react,nodejs" />
   </a>
-</p> 
-
-<p align="center"> 
-  <small>
-  React, Next.js: Desarrollo de interfaces modernas.<br>
-  TypeScript, JavaScript: Programación tipada y lógica del frontend.<br>
-  HTML, CSS, Bootstrap: Maquetación y diseño web.<br>
-  Node.js, Express, NestJS: Desarrollo backend y APIs.<br>
-  PostgreSQL, MySQL, MongoDB: Bases de datos relacionales y NoSQL.
-  </small> 
 </p>
 
 
 
-<!--h1 without bottom border--> 
+<!-- OTHER TECH -->
+<div id="user-content-toc"> 
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Otras tecnologías ⚙</h2></summary> 
+  </ul> 
+</div> 
+
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,php,laravel,mysql,mongodb" />
+  </a>
+</p>
+
+
+
+<!-- TOOLS -->
 <div id="user-content-toc"> 
   <ul align="center"> 
     <summary><h2 style="display: inline-block">Herramientas 🛠</h2></summary> 
   </ul>
 </div>
 
-<!--tech stack icons--> 
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
   </a>
 </p>
 
-<p align="center"> 
-  <small>
-  Git, GitHub: Control de versiones y colaboración.<br>
-  Docker: Contenedores para desarrollo y despliegue.<br>
-  Linux: Entornos de desarrollo y servidores.<br>
-  VSCode: Editor principal de desarrollo.<br>
-  Postman: Testing y documentación de APIs.
-  </small> 
-</p>
 
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+<!-- CONTACT -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Contactame 💬</h2></summary>
@@ -90,7 +83,6 @@
 
 
 
-<!--icons and links-->
 <p align="center">
 
 <a href="https://www.linkedin.com/in/maximiliano-cappelletti-a02ab9359/" target="blank">
