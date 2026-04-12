@@ -38,7 +38,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,tailwind,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,tailwind" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,php,laravel,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,bootstrap,express,php,laravel,mysql,mongodb" />
   </a>
 </p>
 
